@@ -1,0 +1,16 @@
+{
+  "name": "java_cert",
+  "version": "1.0.0",
+  "description": "This is one of the many yet to be done",
+  "main": "index.js",
+  "scripts": {
+	  "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "28.1.4"
+  }
+}
